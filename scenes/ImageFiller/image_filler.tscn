@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bqsfh67nkad7x"]
+
+[ext_resource type="Script" path="res://scenes/ImageFiller/image_filler.gd" id="1_efnm3"]
+
+[node name="ImageFiller" type="Node"]
+script = ExtResource("1_efnm3")
